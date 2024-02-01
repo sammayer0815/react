@@ -42,13 +42,13 @@
               "target": "Package",
               "version": "[8.0.1, )"
             },
-            "Microsoft.EntityFrameworkCore.Design": {
+            "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
-              "version": "[8.0.1, )"
+              "version": "[7.0.0, )"
             },
-            "Microsoft.EntityFrameworkCore.Sqlite": {
+            "Pomelo.EntityFrameworkCore.MySql.Design": {
               "target": "Package",
-              "version": "[8.0.1, )"
+              "version": "[1.1.2, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
